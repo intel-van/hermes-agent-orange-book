@@ -21,8 +21,8 @@ A practical guide to [Hermes Agent](https://github.com/NousResearch/hermes-agent
 
 | Version | PDF |
 |---------|-----|
-| 中文版 (Chinese) | **[PDF Download](https://github.com/alchaincyf/hermes-agent-orange-book/raw/main/Hermes-Agent-从入门到精通-v260407.pdf)** |
-| English | **[PDF Download](https://github.com/alchaincyf/hermes-agent-orange-book/raw/main/Hermes-Agent-The-Complete-Guide-v260407.pdf)** |
+| 中文版 (Chinese) | **[PDF Download](Hermes-Agent-从入门到精通-v260407.pdf)** |
+| English | **[PDF Download](Hermes-Agent-The-Complete-Guide-v260407.pdf)** |
 
 ## What This Book Covers
 
@@ -56,6 +56,16 @@ If you've read the "Harness Engineering" 橙皮书, Hermes is the first producti
 This is part of the 橙皮书 series — free, practical guides on AI tools. Other titles include Claude Code, Harness Engineering, OpenClaw, and more.
 
 All books free to download: **[huasheng.ai/orange-books](https://www.huasheng.ai/orange-books)**
+
+## Further Reading
+
+| Document | Description |
+|----------|-------------|
+| [ROADMAP.md](ROADMAP.md) | **Agent Beginner Learning Roadmap** — structured path distinguishing "must master" vs "can hand off to AI" |
+
+---
+
+[← Back to Chinese README](README_zh.md)
 
 ## About the Author
 

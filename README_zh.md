@@ -15,8 +15,8 @@
 
 | 版本 | PDF |
 |------|-----|
-| 中文版 | **[PDF 下载](https://github.com/alchaincyf/hermes-agent-orange-book/raw/main/Hermes-Agent-从入门到精通-v260407.pdf)** |
-| English | **[PDF Download](https://github.com/alchaincyf/hermes-agent-orange-book/raw/main/Hermes-Agent-The-Complete-Guide-v260407.pdf)** |
+| 中文版 | **[PDF 下载](Hermes-Agent-从入门到精通-v260407.pdf)** |
+| English | **[PDF Download](Hermes-Agent-The-Complete-Guide-v260407.pdf)** |
 
 ## 这本书讲什么
 
@@ -50,6 +50,16 @@
 本书是橙皮书系列之一。系列其他书目包括：Claude Code 从入门到精通、Harness Engineering、OpenClaw 等。
 
 所有橙皮书免费下载：**[huasheng.ai/orange-books](https://www.huasheng.ai/orange-books)**
+
+## 深度阅读
+
+| 文档 | 说明 |
+|------|------|
+| [ROADMAP.md](ROADMAP.md) | **Agent 初学者学习路线图** — 面向初学者的结构化路径，区分"人类必须掌握"与"可交给 AI"的内容 |
+
+---
+
+[← 返回 English README](README.md)
 
 ## 关于作者
 
